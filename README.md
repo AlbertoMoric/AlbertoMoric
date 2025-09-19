@@ -20,7 +20,7 @@ Cada proyecto incluirá una descripción detallada con las tecnologías utilizad
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [NetPlanAdmin]([https://github.com/almoriche/proyecto1](https://github.com/AlbertoMoric/NetPlanAdmin)) |||
+| [NetPlanAdmin][https://github.com/AlbertoMoric/NetPlanAdmin]|||
 
 ---
 
