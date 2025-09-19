@@ -18,8 +18,11 @@ Cada proyecto incluirá una descripción detallada con las tecnologías utilizad
 
 ## 🚀 Proyectos Destacados
 
-### 🔹 [Nombre del Proyecto 1](https://github.com/almoriche/proyecto1)
-Breve descripción del proyecto. Qué problema resuelve o qué estás explorando en él.
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| [Análisis Meteorológico](https://github.com/almoriche/proyecto1) | Análisis de datos climáticos históricos. | Python, Pandas, Matplotlib |
+| [Chatbot para clases](https://github.com/almoriche/proyecto2) | Asistente conversacional para estudiantes. | Python, NLTK, Flask |
+| [Gestor de Redes](https://github.com/almoriche/proyecto3) | Herramienta para monitoreo de red. | Bash, Linux, SNMP |
 
 ---
 
