@@ -26,7 +26,7 @@ Breve descripción del proyecto. Qué problema resuelve o qué estás explorando
 ## 📫 Contacto
 
 - Email: albertomoriche04@gmail.com  
-- LinkedIn: [linkedin.com/in/albertomoriche](https://linkedin.com/in/albertomoriche)
+- LinkedIn: [linkedin.com/in/albertomoriche](https://www.linkedin.com/in/alberto-mor)
 
 ---
 
