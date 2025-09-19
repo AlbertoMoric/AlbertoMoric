@@ -20,7 +20,7 @@ Cada proyecto incluirá una descripción detallada con las tecnologías utilizad
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [ProyectoNet](https://github.com/tuusuario/ProyectoNet)
+| [NetPlanAdmin](https://github.com/tuusuario/ProyectoNet)
 
 ---
 
